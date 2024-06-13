@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mica</h1>
-<h3 align="center">A passionate data analyst from Argentina</h3>
+Hi 👋, I'm Mica
+A passionate data analyst from Argentina
 
 - 📫 How to reach me **micaelapiergiacomi@gmail.com**
 
