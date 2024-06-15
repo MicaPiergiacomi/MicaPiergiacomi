@@ -1,7 +1,6 @@
 Hi 👋, I'm Mica
-A passionate Data Analyst from Argentina
+A passionate Data Analyst from Argentina. 
 
-📫 How to reach me **micaelapiergiacomi@gmail.com**
 
 ### Connect with me
 <p align="left">
