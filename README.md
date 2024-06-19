@@ -1,4 +1,4 @@
-#### Hola 👋 Soy Mica! 
+### Hola 👋 Soy Mica! 
 
 🎓 Soy Analista de Datos graduada de Henry Bootcamp. 
 
