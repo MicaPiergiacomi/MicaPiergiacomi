@@ -1,6 +1,6 @@
 ### Hola 👋 Soy Mica! 
 
-🎓 Soy Analista de Datos graduada de Henry Bootcamp. 
+🎓 Soy Analista de Datos graduada en Henry Bootcamp. 
 
 📈 Tengo experiencia en análisis y visualización de datos, con conocimientos en Python, SQL y Power BI. 
 
@@ -8,7 +8,7 @@
 
 🤓 Me considero una persona con gran capacidad de adaptación, siempre dispuesta a aprender y comprometida con las necesidades del equipo.
 
-
+----
 
 #### Tecnologías y Herramientas
 
