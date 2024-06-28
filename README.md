@@ -6,7 +6,7 @@
 
 👩🏻‍💻 Actualmente estoy capacitandome en Google Cloud Platform.
 
-🤓 Me considero una persona con gran capacidad de adaptación, siempre dispuesta a aprender y comprometida con las necesidades del equipo.
+🤓 Con gran capacidad de adaptación, siempre dispuesta a aprender y comprometida con las necesidades del equipo.
 
 ----
 
