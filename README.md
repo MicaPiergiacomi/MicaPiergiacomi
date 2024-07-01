@@ -1,4 +1,5 @@
-![4207be43c8ab749d6234dd304b4f577b](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/2b0de757-af0f-4fda-ac06-a15f825d31b2)
+![Uploading 2d84a8666c673ea2334cd8c5960ed136.jpg…]()
+
 
 
 ### Hola 👋 Soy Mica! 
