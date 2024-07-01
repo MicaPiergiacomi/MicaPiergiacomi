@@ -1,7 +1,7 @@
 ![12312](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/d83471e3-8d48-45ca-bb64-42a1f224a973)
 
 
-**Hola 👋 Soy Mica!**
+## **Hola 👋 Soy Mica!**
 
 🎓 Soy Data Analyst graduada en Henry Bootcamp. 
 
@@ -36,5 +36,5 @@
 
 ### Contactame por
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/micaela-piergiacomi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micaela-piergiacomi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/micaela-piergiacomi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micaela-piergiacomi/" height="30" width="40" /></a>
 </p>
