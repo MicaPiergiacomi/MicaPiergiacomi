@@ -1,4 +1,5 @@
-![Uploading 2d84a8666c673ea2334cd8c5960ed136.jpg…]()
+
+![IMG_0439](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/e713dbae-7215-4bba-b81c-b08d8ef5ec70)
 
 
 
