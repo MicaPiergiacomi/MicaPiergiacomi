@@ -1,5 +1,5 @@
 
-![IMG_0439](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/e713dbae-7215-4bba-b81c-b08d8ef5ec70)
+![2d84a8666c673ea2334cd8c5960ed136](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/ae2778bb-922a-450a-9348-315ec1b99389)
 
 
 
