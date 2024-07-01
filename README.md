@@ -1,3 +1,6 @@
+![4207be43c8ab749d6234dd304b4f577b](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/2b0de757-af0f-4fda-ac06-a15f825d31b2)
+
+
 ### Hola 👋 Soy Mica! 
 
 🎓 Soy Analista de Datos graduada en Henry Bootcamp. 
