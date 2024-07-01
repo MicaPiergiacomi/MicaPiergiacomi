@@ -1,8 +1,7 @@
-![123123](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/508a696b-e812-4fda-8ef7-2e1fa2217bdb)
+![12312](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/d83471e3-8d48-45ca-bb64-42a1f224a973)
 
 
-
-### Hola 👋 Soy Mica! 
+## Hola 👋 Soy Mica! 
 
 🎓 Soy Analista de Datos graduada en Henry Bootcamp. 
 
@@ -14,7 +13,7 @@
 
 ----
 
-#### Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
