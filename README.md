@@ -38,7 +38,10 @@ Data Analyst graduada en Henry Bootcamp. Después de 10 años dedicados al estud
 
 
 ### Contáctame
-<a href="https://www.linkedin.com/in/micaela-piergiacomi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micaela-piergiacomi/" height="20" width="15" /> </a>  linkedin.com/in/micaela-piergiacomi/
+<a href="https://www.linkedin.com/in/micaela-piergiacomi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micaela-piergiacomi/" height="20" width="15" /> </a>  
 
-✉ micaelapiergiacomi@gmail.com
-
+<a target="_blank"
+href="mailto:micaelapiergiacomi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+</p>
+ 
